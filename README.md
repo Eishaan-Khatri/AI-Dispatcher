@@ -2,7 +2,7 @@
 
 > **AI Dispatcher for the Energy Transition: Balancing Production and ESG under Uncertainty**
 
-## 🔗 [View Full Documentation →](index.html)
+## 🔗 [View Full Documentation →](https://eishaan-khatri.github.io/AI-Dispatcher/)
 
 ## The Problem
 
